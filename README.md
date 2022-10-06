@@ -10,6 +10,6 @@ Aqui depositaré archivos sobre python.
 
 -Programación estructurada:
 
-##Referencias
+## Referencias
 
-##Licencia
+## icencia
