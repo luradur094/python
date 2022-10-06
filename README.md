@@ -4,11 +4,11 @@
 Aqui depositaré archivos sobre python.
 
 ## Contenidos
--Fundamentos:
+- Fundamentos:
 
--Estructuras:
+- Estructuras:
 
--Programación estructurada:
+- Programación estructurada:
 
 ## Referencias
 
